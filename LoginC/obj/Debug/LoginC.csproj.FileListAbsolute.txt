@@ -1,0 +1,13 @@
+C:\Users\vitob\source\repos\LoginC\LoginC\bin\Debug\LoginC.exe.config
+C:\Users\vitob\source\repos\LoginC\LoginC\bin\Debug\LoginC.exe
+C:\Users\vitob\source\repos\LoginC\LoginC\bin\Debug\LoginC.pdb
+C:\Users\vitob\source\repos\LoginC\LoginC\obj\Debug\LoginC.csproj.AssemblyReference.cache
+C:\Users\vitob\source\repos\LoginC\LoginC\obj\Debug\LoginC.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitob\source\repos\LoginC\LoginC\obj\Debug\LoginC.Properties.Resources.resources
+C:\Users\vitob\source\repos\LoginC\LoginC\obj\Debug\LoginC.csproj.GenerateResource.cache
+C:\Users\vitob\source\repos\LoginC\LoginC\obj\Debug\LoginC.csproj.CoreCompileInputs.cache
+C:\Users\vitob\source\repos\LoginC\LoginC\obj\Debug\LoginC.exe
+C:\Users\vitob\source\repos\LoginC\LoginC\obj\Debug\LoginC.pdb
+C:\Users\vitob\source\repos\LoginC\LoginC\obj\Debug\LoginC.FrmPrincipal.resources
+C:\Users\vitob\source\repos\LoginC\LoginC\obj\Debug\LoginC.FrmRegistro.resources
+C:\Users\vitob\source\repos\LoginC\LoginC\obj\Debug\LoginC.we.resources
